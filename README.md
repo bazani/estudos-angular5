@@ -1,6 +1,6 @@
 # Estudos sobre Angular v5
 
-Projeto criado com o Angular [Angular CLI](https://github.com/angular/angular-cli) versão 1.7.3.
+Projeto criado com o [Angular CLI](https://github.com/angular/angular-cli) versão 1.7.3.
 
 ## Dev server
 
